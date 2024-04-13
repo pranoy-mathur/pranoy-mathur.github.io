@@ -9,7 +9,7 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
-theme: jekyll-theme-minima
+theme: minima
 
 # The following are the Jekyll format configuration settings required by the Minima theme 
 
