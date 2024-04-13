@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cooking & Culinary Experiments
+title: Cooking
 permalink: /cooking/
 ---
 
