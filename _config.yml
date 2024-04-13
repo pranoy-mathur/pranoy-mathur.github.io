@@ -10,6 +10,7 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 
+# This is commented out because remote_theme is configured further down
 # theme: minima
 
 # The following are the Jekyll format configuration settings required by the Minima theme 
