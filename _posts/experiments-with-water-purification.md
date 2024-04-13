@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Wastewater processing at home using aeration with an IKEA milk frother"
+date: 2024-04-13
 categories: projects
 ---
 
