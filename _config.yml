@@ -1,0 +1,16 @@
+lsi: false
+safe: true
+source: github.com/pranoy-mathur/pranoy-mathur.github.io/
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+theme: jekyll-theme-minima
+minima:
+  skin: solarized-light
+header_pages:
+  - about.md
+  - portfolio.md
