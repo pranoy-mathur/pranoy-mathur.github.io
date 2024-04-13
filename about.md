@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About the author - Pranoy Mathur
+title: About
 permalink: /about/
 ---
 
-This is the bio for Pranoy Mathur of Inventure Academy
+# About Pranoy
+I am a student at Inventure Academy, Bangalore. 
