@@ -12,21 +12,14 @@ kramdown:
 theme: minima
 
 # The following are the Jekyll format configuration settings required by the Minima theme 
-
-header_pages:
-  - about.md
-  - portfolio.md
-title: Pranoy web log
+title: Pranoy Mathur
 author:
   name: Pranoy Mathur
   email: your-email@domain.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+description: Website for Pranoy Mathur's thoughts, projects, and research. 
 
 # As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/). 
 # If you want to use the latest Minima version on GitHub Pages, use the following setting and 
@@ -43,9 +36,10 @@ plugins:
 # in order as they should show up.
 header_pages:
   - about.md
+  - portfolio.md
 
 # Set to `true` to show excerpts on the homepage.
-#show_excerpts: false
+show_excerpts: true
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
@@ -65,14 +59,14 @@ minima:
   #date_format: "%b-%d-%Y"
 
   # Generate social links in footer.
-  #social_links:
+  social_links:
   #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
   #  - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
   #  - { platform: github,         user_url: "https://github.com/jekyll/minima" }
   #  - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
-  #  - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
+    - { platform: instagram,      user_url: "https://www.instagram.com/a.amr_campaign" }
   #  - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
   #  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jekyll" }
   #  - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
