@@ -13,14 +13,14 @@ A week ago, our house was left devoid of any person able to cook dinner for my b
 ![image](https://github.com/pranoy-mathur/pranoy-mathur.github.io/assets/86551685/f3f9d4a7-5834-468d-ae03-680e1a7401f7)
 
 Ingredients:
-Chicken breast (or any other boneless cuts)
-Capsicum
-Onion
-Soy Sauce
-Honey
-Garlic
-Sriracha (or any other hot sauce)
-Tortilla
+- Chicken breast (or any other boneless cuts)
+- Capsicum
+- Onion
+- Soy Sauce
+- Honey
+- Garlic
+- Sriracha (or any other hot sauce)
+- Tortilla
 
 Recipe:
 - Soak the chicken breast in saline water for around 1-2 hours before you start cooking. _[This makes the chicken breast more moist after cooking. Water moves from the saline solution into the chicken breast via osmosis (the movement of water molecules from an area of higher water molecule concentration, in the solution, to an area of lower water molecule concentration, in the chicken)]_.
