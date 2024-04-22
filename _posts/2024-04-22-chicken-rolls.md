@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cooking Adventures: A Quick Saturday Night Dinner
+title: Cooking Adventures - A Quick Saturday Night Dinner
 permalink: /chicken-roll/
 categories: cooking
 ---
