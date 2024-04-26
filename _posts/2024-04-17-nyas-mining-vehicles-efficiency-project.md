@@ -4,9 +4,9 @@ title: "Technologies to Improve Efficiency of Mining Vehicles: An NYAS Project"
 date: 2024-04-17
 categories: projects
 ---
-My latest project as part of the New York Academy of Sciences was to design an innovative approach to secure the supply of critical minerals in the transition to a fossil-free society. My group and I decided to work on the efficiency of mining vehicles that release vast amounts of carbon dioxide into the atmosphere. 
+My latest project as part of the New York Academy of Sciences was to design an innovative approach to secure the supply of critical minerals in the transition to a fossil-free society. Read more...
 
-During our research, we discovered the methods through which carbon dioxide being released into the atmosphere, as a result of mining activities, could be captured. However, it was imperative we found a technique to either store or harness the carbon dioxide, and we chose the latter. 
+My group and I decided to work on the efficiency of mining vehicles that release vast amounts of carbon dioxide into the atmosphere. During our research, we discovered the methods through which carbon dioxide being released into the atmosphere, as a result of mining activities, could be captured. However, it was imperative we found a technique to either store or harness the carbon dioxide, and we chose the latter. 
 
 Our project utilized “Metal Organic Frameworks”, a porous polymer that essentially acts as a sponge (with a large surface area) to absorb carbon dioxide. This form of carbon capture technology would allow us to store the gas emissions, from where it could be used productively later on. 
 
