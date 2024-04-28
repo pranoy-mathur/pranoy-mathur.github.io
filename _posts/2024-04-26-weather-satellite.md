@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Role of Satellites in 
+title: Weather Satellites
 permalink: /satellites/
 categories: projects
 ---
