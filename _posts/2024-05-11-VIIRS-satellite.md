@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Participating in a Satellite Virtual Science Fair
+title: Participating in a Virtual Satellite Science Fair
 permalink: /VIIRS-satellite/
 categories: projects
 ---
