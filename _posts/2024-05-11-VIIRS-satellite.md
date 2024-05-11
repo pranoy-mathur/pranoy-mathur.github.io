@@ -57,6 +57,9 @@ Ultimately, our work suggested that Colusa County, CA, had the highest risk of w
 **Bibliography**
 
 Wikipedia, https://gis.data.ca.gov/datasets/8713ced9b78a4abb97dc130a691a8695/explore. Accessed 11 May 2024.
+
 Wikipedia, http://extension.okstate.edu/programs/fire-ecology/fire-effects-research-and-demonstration-sites/. Accessed 11 May 2024.
+
 “JSTAR Mapper.” noaa/nesdis/star, http://www.star.nesdis.noaa.gov/mapper/. Accessed 11 May 2024.
+
 “Relationship of forest fires with a land surface temperature and b rainfall.” ResearchGate, http://www.researchgate.net/figure/Relationship-of-forest-fires-with-a-land-surface-temperature-and-b-rainfall_fig5_362672167#. Accessed 11 May 2024.
