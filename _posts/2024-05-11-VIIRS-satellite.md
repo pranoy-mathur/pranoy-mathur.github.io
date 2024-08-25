@@ -3,6 +3,7 @@ layout: post
 title: Participating in a Virtual Satellite Science Fair
 permalink: /VIIRS-satellite/
 categories: [projects, environment]
+tags: [satellite, JPSS, wildfires, California, vegetation cover, land surface temperature, drought measurement]
 ---
 As a participant in a captivating US-based virtual science fair, I analyzed satellite data from the Joint Point Satellite System (JPSS) to uncover trends in climatic phenomena.
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: category-collection
 title: Cooking
 permalink: /cooking/
 indexed_category: cooking
