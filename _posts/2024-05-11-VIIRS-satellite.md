@@ -2,7 +2,7 @@
 layout: post
 title: Participating in a Virtual Satellite Science Fair
 permalink: /VIIRS-satellite/
-categories: projects
+categories: [projects, environment]
 ---
 As a participant in a captivating US-based virtual science fair, I analyzed satellite data from the Joint Point Satellite System (JPSS) to uncover trends in climatic phenomena.
 

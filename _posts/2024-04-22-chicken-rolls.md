@@ -2,7 +2,7 @@
 layout: post
 title: Cooking Adventures - A Quick Saturday Night Dinner
 permalink: /chicken-roll/
-categories: cooking
+categories: [cooking]
 ---
 Preparing tasty chicken rolls in only half an hour! Read more...
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Effluent Treatment Experiment at Home, using Aerobic Bacteria"
 date: 2024-04-14
-categories: projects
+categories: [projects, biology]
 ---
 
 Exploring biological water treatment processes carried out in industries, at home. Read more...

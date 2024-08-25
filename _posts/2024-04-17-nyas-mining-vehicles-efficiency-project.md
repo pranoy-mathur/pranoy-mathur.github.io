@@ -2,7 +2,7 @@
 layout: post
 title: "Technologies to Improve Efficiency of Mining Vehicles: An NYAS Project"
 date: 2024-04-17
-categories: projects
+categories: [projects, environment]
 ---
 My latest project as part of the New York Academy of Sciences was to design an innovative approach to secure the supply of critical minerals in the transition to a fossil-free society. Read more...
 

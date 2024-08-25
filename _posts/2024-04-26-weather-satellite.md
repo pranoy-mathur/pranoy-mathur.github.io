@@ -2,7 +2,7 @@
 layout: post
 title: Weather Satellites
 permalink: /satellites/
-categories: projects
+categories: [projects]
 ---
 How do satellites capture sophisticated meteorological data and observations, all the way from space? Read more…
 
