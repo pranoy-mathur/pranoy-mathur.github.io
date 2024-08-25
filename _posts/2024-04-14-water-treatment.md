@@ -6,7 +6,7 @@ categories: [projects, biology]
 tags: [water treatment, effluents, bacteria]
 ---
 
-Exploring biological water treatment processes carried out in industries, at home. Read more...
+Exploring biological water treatment processes carried out in industries, at home.
 
 **Introduction**
 From water-borne diseases spreading like wildfires, to unpleasant odors - the consequences of improper sewage treatment run rampant across urban and rural India, plunging the country into peril. 

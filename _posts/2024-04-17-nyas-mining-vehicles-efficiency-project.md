@@ -5,7 +5,7 @@ date: 2024-04-17
 categories: [projects, environment]
 tags: [mining, carbon capture, MOF, carbonic acid, "New York Academy of Sciences"]
 ---
-My latest project as part of the New York Academy of Sciences was to design an innovative approach to secure the supply of critical minerals in the transition to a fossil-free society. Read more...
+My latest project as part of the New York Academy of Sciences was to design an innovative approach to secure the supply of critical minerals in the transition to a fossil-free society.
 
 My group and I decided to work on the efficiency of mining vehicles that release vast amounts of carbon dioxide into the atmosphere. During our research, we discovered the methods through which carbon dioxide being released into the atmosphere, as a result of mining activities, could be captured. However, it was imperative we found a technique to either store or harness the carbon dioxide, and we chose the latter. 
 

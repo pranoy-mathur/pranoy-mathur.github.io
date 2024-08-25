@@ -4,7 +4,7 @@ title: Weather Satellites
 permalink: /satellites/
 categories: [projects]
 ---
-How do satellites capture sophisticated meteorological data and observations, all the way from space? Read more…
+How do satellites capture sophisticated meteorological data and observations, all the way from space?
 
 Satellites are crucial to provide information on weather patterns and natural calamities, that improve weather forecasting, allow rapid evacuation incase of upcoming disasters and can dictate the movement of economically vital aviation and oil/gas transport vehicles.
 

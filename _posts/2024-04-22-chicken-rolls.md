@@ -5,7 +5,7 @@ permalink: /chicken-roll/
 categories: [cooking]
 tags: [chicken, culinary, recipe]
 ---
-Preparing tasty chicken rolls in only half an hour! Read more...
+Preparing tasty chicken rolls in only half an hour! :)
 
 A week ago, our house was left devoid of any person able to cook dinner for my brother and me. Rather than ordering fast food in, I hurried to the kitchen to find beautiful cuts of chicken breast lying serenely in the freezer. It seemed a shame to order from a restaurant and let the chicken go unused. Thus, my 2020 lockdown self came alive, and decided to cook some tasty chicken rolls, oozing with flavor. Fortunately, it only takes 30 minutes to cook, and is relatively healthy with high amounts of protein and minimal fat.
 
