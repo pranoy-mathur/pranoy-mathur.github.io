@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: The Joy of the Commons - Welcome
 permalink: /
 ---
 
