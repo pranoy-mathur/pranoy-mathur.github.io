@@ -36,7 +36,9 @@ plugins:
 # Theme-specific settings
 jekyll-archives:
   jekyll-archives:
-  enabled: ["categories","tags"]
+  enabled: 
+    - categories
+    - tags
   layout: archive
     
 # If you want to link only specific pages in your header, use this and add the path to the pages
