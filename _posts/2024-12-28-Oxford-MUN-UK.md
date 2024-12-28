@@ -29,7 +29,8 @@ While, at the time, the certificate was all I could think about, looking back on
 I would like to thank my parents and my teachers at Inventure Academy, who supported me throughout this journey, without whom this opportunity wouldn’t have been possible.
 
 
-Additional Information
-Committee Background Guide - [Oxford Global _ Empress Wu Edited.docx - Google Docs.pdf](https://github.com/user-attachments/files/18265773/Oxford.Global._.Empress.Wu.Edited.docx.-.Google.Docs.pdf)
+**Additional Information**
 
-Welcome letter - [Oxford Global _ Welcome Letter.pdf](https://github.com/user-attachments/files/18265776/Oxford.Global._.Welcome.Letter.pdf)
+ * [Committee Background Guide](https://github.com/user-attachments/files/18265773/Oxford.Global._.Empress.Wu.Edited.docx.-.Google.Docs.pdf)
+
+ * [Committee Brief](https://github.com/user-attachments/assets/c1e72c7f-5398-4670-84c6-6e481bd7a722)
