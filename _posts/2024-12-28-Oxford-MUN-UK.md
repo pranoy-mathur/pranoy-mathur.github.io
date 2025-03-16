@@ -20,8 +20,10 @@ My portfolio for the committee (Empress Wu Crisis), Yao Chong, an official in th
 Although my directive ultimately failed to gather enough votes for several reasons, I was honoured to win Outstanding Delegate (2nd place). This recognition was not just a reward for loud speeches or intricate plans but reflected my ability to help a peripheral character turn into a focal point of the committee and, more importantly, to unite a factionalized group through compromise.
 
 ![image](https://github.com/user-attachments/assets/982e5948-cfea-4ce0-aaed-75d5d5c77632)
+![Pranoy-OxfordMUN-UK-2024](https://github.com/user-attachments/assets/eac54dd2-c61b-426e-98ef-6b7d1afdec78)
 
 While, at the time, the certificate was all I could think about, looking back on my experience has made me deeply appreciate the opportunity to meet new people from around the world—the UK, Georgia, Greece, Hong Kong, and so many more. The memories I made with them, from laughing over the names of historical characters to answering the goofiest questions our Executive Board could come up with, will stay with me forever.
+
 
 I would like to thank my parents and my teachers at Inventure Academy, who supported me throughout this journey, without whom this opportunity wouldn’t have been possible. An additional thanks to my cousins, Aria and Kavya, who sent me reading material on the historical context of Empress Wu Zetian.
 
