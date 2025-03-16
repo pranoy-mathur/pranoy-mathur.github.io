@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home - Pranoy Mathur's blog
+title: Pranoy Mathur's blog
 permalink: /
 ---
 

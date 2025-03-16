@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pranoy Mathur - About
+title: About
 permalink: /about/
 ---
 
