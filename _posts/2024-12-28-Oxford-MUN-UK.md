@@ -19,18 +19,14 @@ My portfolio for the committee (Empress Wu Crisis), Yao Chong, an official in th
 
 Although my directive ultimately failed to gather enough votes for several reasons, I was honoured to win Outstanding Delegate (2nd place). This recognition was not just a reward for loud speeches or intricate plans but reflected my ability to help a peripheral character turn into a focal point of the committee and, more importantly, to unite a factionalized group through compromise.
 
-
 ![image](https://github.com/user-attachments/assets/982e5948-cfea-4ce0-aaed-75d5d5c77632)
-
-
 
 While, at the time, the certificate was all I could think about, looking back on my experience has made me deeply appreciate the opportunity to meet new people from around the world—the UK, Georgia, Greece, Hong Kong, and so many more. The memories I made with them, from laughing over the names of historical characters to answering the goofiest questions our Executive Board could come up with, will stay with me forever.
 
 I would like to thank my parents and my teachers at Inventure Academy, who supported me throughout this journey, without whom this opportunity wouldn’t have been possible. An additional thanks to my cousins, Aria and Kavya, who sent me reading material on the historical context of Empress Wu Zetian.
 
+## Additional Information
 
-**Additional Information**
+ * [Committee Background Guide - The Council of Empress Wu Zetian - Crisis Committee](https://github.com/user-attachments/files/18265773/Oxford.Global._.Empress.Wu.Edited.docx.-.Google.Docs.pdf). PDF - archived from the [Oxford Global 2024](https://www.oxfordglobal.org/oxfordmun-2024-photos) website.
 
- * [Committee Background Guide - The Council of Empress Wu Zetian - Crisis Committee](https://github.com/user-attachments/files/18265773/Oxford.Global._.Empress.Wu.Edited.docx.-.Google.Docs.pdf)
-
- * [Committee Brief - The Council of Empress Wu Zetian](https://github.com/user-attachments/assets/c1e72c7f-5398-4670-84c6-6e481bd7a722)
+ * [Committee Brief - The Council of Empress Wu Zetian](https://github.com/user-attachments/assets/c1e72c7f-5398-4670-84c6-6e481bd7a722). Image - archived from the [Oxford Global 2024](https://www.oxfordglobal.org/oxfordmun-2024-photos) website.
