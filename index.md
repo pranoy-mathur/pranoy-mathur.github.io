@@ -1,8 +1,7 @@
 ---
 layout: home
-title: Home
+title: Home - Pranoy Mathur's blog
 permalink: /
 ---
 
-Welcome to my blog. Below is a collection of my works. I hope you enjoy them :)
-
+Welcome to my blog. I hope you enjoy my writings below :).

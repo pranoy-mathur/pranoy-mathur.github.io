@@ -2,6 +2,7 @@
 layout: post
 title: ISSO Athletics Experience, 3rd Place in Hurdles
 permalink: /ISSO-athletics/
+categories: [sports]
 ---
 The International School Sports Organization (ISSO) hosted its annual national athletics meet from October 19th to 21st, 2024. The excitement of freedom from my usual life and the prospect of bringing home medals filled my head as my underprepared body first stepped into Lemon Tree Hotel, Gurgaon. The hotel was conveniently close to Tau Devi Lal Stadium, the venue of the competition.
 
