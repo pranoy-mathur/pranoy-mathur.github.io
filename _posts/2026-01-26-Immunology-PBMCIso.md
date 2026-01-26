@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Immunology Assays: Peripheral Blood Mononuclear Cell (PBMC) Isolation [3/7]"
-date: 2026-01-66
+date: 2026-01-26
 categories: [biology]
 tags: [immunology, STEM, biology, assays, internship]
 ---
